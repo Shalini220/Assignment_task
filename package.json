@@ -1,0 +1,1 @@
+{"name":"bitespeed-identity-reconciliation","version":"1.0.0","main":"dist/index.js","scripts":{"start":"ts-node src/index.ts","dev":"nodemon src/index.ts","prisma":"prisma"},"dependencies":{"@prisma/client":"latest","express":"latest"},"devDependencies":{"@types/express":"^5.0.2","nodemon":"latest","prisma":"latest","ts-node":"latest","typescript":"latest"}}
